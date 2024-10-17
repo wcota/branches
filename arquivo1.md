@@ -6,6 +6,8 @@ Mais algumas linhas...
 
 Vamos ver o que vai dar.
 
+Então...
+
 ## Descrição do Projeto
 
 O objetivo deste projeto é demonstrar o uso básico do Git e GitHub.
