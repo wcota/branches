@@ -1,6 +1,6 @@
 ## Regras para colaboração
 
-- Faça um fork do repositório.
+- Faça um fork do repositório 3.
 - Crie uma branch para sua feature.
 - Abra um pull request com suas mudanças.
 - Sempre faça commits de todas as mudanças.
