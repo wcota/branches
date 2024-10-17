@@ -1,6 +1,10 @@
 # Meu Projeto
 
-Este é o repositório inicial do meu projeto.
+Este é o repositório inicial do meu projeto e vamos lá.
+
+Mais algumas linhas...
+
+Vamos ver o que vai dar.
 
 ## Descrição do Projeto
 
